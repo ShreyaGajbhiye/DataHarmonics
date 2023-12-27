@@ -1,0 +1,4 @@
+
+client_id: cab0981e206b4b2990dcebdd9b13f3e5
+client_secret: 38895ab40cfa4701a110da32501fa4d5
+redirect_uri: http://localhost:9001/callback
